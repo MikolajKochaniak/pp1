@@ -1,3 +1,3 @@
 for x in range(1,11):
-    print(1/x)
+    print(f'{x} = {1/x}')
     
