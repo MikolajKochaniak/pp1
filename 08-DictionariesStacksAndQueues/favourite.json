@@ -1,0 +1,11 @@
+{
+    "number": "35625362",
+    "model": "13",
+    "brand": "Banach",
+    "age": 25,
+    "guarantee": true,
+    "apps": [
+        "App_strore",
+        "chrome"
+    ]
+}
