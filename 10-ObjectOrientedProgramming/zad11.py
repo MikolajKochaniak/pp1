@@ -1,4 +1,4 @@
-class tv():
+class Tv():
     def __init__(self):
         self.is_on = False
         self.channel = 1
@@ -21,7 +21,7 @@ class tv():
         print(self.name)
         
 
-tvt = tv()
+tvt = Tv()
 tvt.show_status()
 tvt.turn_on()
 tvt.set_channel(10)
