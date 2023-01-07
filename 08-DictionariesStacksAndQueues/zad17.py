@@ -13,7 +13,7 @@ for i in rates:
     table.append(rate)
 print("date             buing rate  selling rate")
 print("=========================================")
-
+print(table)
 for i in range(len(table)):
     for k,v in table[i].items():
         print(v, end="       ")
